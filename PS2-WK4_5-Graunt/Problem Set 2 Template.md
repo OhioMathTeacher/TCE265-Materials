@@ -11,7 +11,7 @@ Name: _________________________
 
 ---
 
-## Part 1: The Math — Comparing the Bills of Mortality (Th1)
+## Part 1: The Math — Comparing the Bills of Mortality (5 pts)
 
 *Purpose: Analyze historical data using the tool of your choice. Discover what patterns emerge when you compare a "normal" year to a plague year.*
 
@@ -26,7 +26,7 @@ John Graunt analyzed London's Bills of Mortality—weekly death records—and di
 - **Desmos** (https://www.desmos.com/calculator)
 - **Google Sheets**
 
-**Your deliverable:** A 2-3 minute video featuring all three triad members.
+**Your deliverable:** A 2-3 minute video featuring all three triad members. (5)
 
 ### Video Requirements
 
@@ -47,7 +47,7 @@ Your video must:
 
 ---
 
-## Part 2: The Story — Research via NotebookLM (T2)
+## Part 2: The Story — Research via NotebookLM (10 pts)
 
 *Purpose: Use AI-assisted research to go deeper than a quick Google search. Find the human story behind the math—details that would resonate with young learners.*
 
@@ -65,11 +65,11 @@ Your NotebookLM notebook includes these curated sources:
 
 Note any sources you added in Part 2c.
 
-### (a) Key Findings (~250-300 words)
+### (a) Key Findings (~250-300 words) (4)
 
 What are the most important things you learned about Graunt's life, work, and impact?
 
-### (b) Surprising Quotes/Facts
+### (b) Surprising Quotes/Facts (3)
 
 List 2-3 items that surprised you or would hook young learners:
 
@@ -79,13 +79,13 @@ List 2-3 items that surprised you or would hook young learners:
 
 3. 
 
-### (c) NotebookLM Reflection (~75-100 words)
+### (c) NotebookLM Reflection (~75-100 words) (3)
 
 How did you use NotebookLM? What features helped? What didn't work as expected? Did you add any sources? Which ones and why?
 
 ---
 
-## Part 3: The Teaching — 5 Classroom Ideas (T2)
+## Part 3: The Teaching — 5 Classroom Ideas (10 pts)
 
 *Purpose: Generate creative, concrete ideas for bringing Graunt and data analysis into a math classroom. Quantity over perfection—you're brainstorming, not lesson planning.*
 
@@ -99,17 +99,9 @@ Brainstorm 5 teaching materials or experiences connecting Graunt and data analys
 | **Cross-Curricular Link** | Connects math to history, public health, or epidemiology |
 | **Discussion Prompt** | Open question about what data can (and can't) tell us |
 
-For each idea: category, brief description (~50-75 words), and target grade band (4-5, 6-7, or 8-9).
+For each idea: category, brief description (~50-75 words), and target grade band (4-5, 6-7, or 8-9). **(2 pts each)**
 
-### (a) Idea 1:
-
-**Category:**
-
-**Description:**
-
-**Grade band:**
-
-### (b) Idea 2:
+### (a) Idea 1: (2)
 
 **Category:**
 
@@ -117,7 +109,7 @@ For each idea: category, brief description (~50-75 words), and target grade band
 
 **Grade band:**
 
-### (c) Idea 3:
+### (b) Idea 2: (2)
 
 **Category:**
 
@@ -125,7 +117,7 @@ For each idea: category, brief description (~50-75 words), and target grade band
 
 **Grade band:**
 
-### (d) Idea 4:
+### (c) Idea 3: (2)
 
 **Category:**
 
@@ -133,7 +125,15 @@ For each idea: category, brief description (~50-75 words), and target grade band
 
 **Grade band:**
 
-### (e) Idea 5:
+### (d) Idea 4: (2)
+
+**Category:**
+
+**Description:**
+
+**Grade band:**
+
+### (e) Idea 5: (2)
 
 **Category:**
 
@@ -143,24 +143,57 @@ For each idea: category, brief description (~50-75 words), and target grade band
 
 ---
 
-## Part 4: Reflection — Tools & Methods (Th2)
+## Part 4: Reflection — Tools & Methods (5 pts)
 
 *Purpose: Reflect on your analytical process and how it compares to historical methods. Consider how you might use these tools with your future students.*
 
-Answer each prompt in ~50-75 words.
+### (a) Poster Photo (1)
 
-### (a) GROUPSHARE Feedback
+Include a photo of your completed poster from the Poster Relay. Make sure all three sticky notes (yellow, pink, green) are visible in the image.
 
-What feedback did your triad receive during GROUPSHARE? What resonated with your audience?
+**[Insert photo here]**
 
-### (b) Tool Analysis
+### (b) Sticky Note Reactions (2)
 
-Discuss your tool use in this problem set. Which tool (GenAI, Desmos, or Sheets) seemed best suited for analyzing the Bills of Mortality data? Why?
+Choose 2-3 sticky notes from your poster to react to. For each one:
+- **Type the text** from the sticky note
+- **React:** Did it surprise you? Improve your idea? Misunderstand your intent? Give you a new direction?
 
-### (c) Teaching with Tools
+**Sticky 1:**
+> [Type the sticky note text here]
 
-Which of these tools would you use with middle school students? Does the order matter—for instance, should students try analyzing by hand before using technology?
+*Your reaction (~50 words):*
 
-### (d) Comparing to Graunt
+**Sticky 2:**
+> [Type the sticky note text here]
+
+*Your reaction (~50 words):*
+
+**Sticky 3 (optional):**
+> [Type the sticky note text here]
+
+*Your reaction (~50 words):*
+
+### (c) Tool Analysis (~50-75 words) (1)
+
+Which tool (GenAI, Desmos, or Sheets) seemed best suited for analyzing the Bills of Mortality data? Why? Which would you use with middle school students—and does order matter?
+
+### (d) Comparing to Graunt (~50-75 words) (1)
 
 How did your approach to the Bills of Mortality compare to Graunt's approach in the reading? What did he notice that you missed—or vice versa?
+
+---
+
+## Rubric
+
+| Part | Points | What We're Looking For |
+|------|--------|------------------------|
+| **1: The Math** | 5 | Video shows genuine exploration; all 3 roles present; tool demonstrated; correct terminology |
+| **2: The Story** | 10 | Goes beyond surface biography; hooks are teaching-ready; NotebookLM used strategically |
+| **3: The Teaching** | 10 | 5 distinct categories; specific and actionable ideas; Graunt connection clear |
+| **4: Reflection** | 5 | Photo with stickies visible; 2-3 quoted reactions; tool reasoning; Graunt comparison |
+| **TOTAL** | **30** | |
+
+---
+
+*Questions? Ask in class or email Dr. Edwards.*
