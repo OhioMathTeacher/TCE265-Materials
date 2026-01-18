@@ -51,7 +51,7 @@ Your video must:
 
 *Purpose: Use AI-assisted research to go deeper than a quick Google search. Find the human story behind the math—details that would resonate with young learners.*
 
-Your NotebookLM notebook includes these curated sources:
+Create a NotebookLM notebook and add these curated sources (available in our course materials):
 - John Graunt biography (Wikipedia)
 - Jay Walker TEDMED transcript ("Hidden Aspects of Death")
 - "John Graunt on Causes of Death" (Graunt's original analysis, 1662)
