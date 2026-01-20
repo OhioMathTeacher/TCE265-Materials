@@ -9,12 +9,10 @@ Public repository containing student-facing materials for TCE 265.
 
 | # | Mathematician | Topic | Status |
 |---|---------------|-------|--------|
-| 1 | John Graunt | Bills of Mortality (Data) | Coming soon |
-| 2 | Maryam Mirzakhani | Infinite Pool Table (Geometry) | Coming soon |
-| 3 | Florence Nightingale | Rose Diagrams (Data) | Coming soon |
-| 4 | Georg Pick | Lattice Polygons (Algebra) | Coming soon |
-| 5 | René Descartes | Analytic Geometry (Algebra) | Coming soon |
-| 6 | Plato & Archimedes | Platonic Solids (Geometry) | Coming soon |
+| 1 | Florence Nightingale | Rose Diagrams (Data Visualization) | Available |
+| 2 | John Graunt | Bills of Mortality (Data Analysis) | Available |
+| 3 | Maryam Mirzakhani | Billiard Ball Problem (Geometry) | Available |
+| 4 | Plato | Three-Scene Play (Philosophy & Math) | Available |
 
 ## Picture Book Project
 
